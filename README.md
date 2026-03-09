@@ -31,4 +31,3 @@ Arrow function is a shorter syntax for writing functions using => instead of the
 5️⃣ What are template literals?
 
 Template literals is Strings wrapped in backticks instead of quotes.
-
