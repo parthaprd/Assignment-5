@@ -23,9 +23,11 @@ forEach() — loops through the array, returns nothing (undefined).
 ---
 
 4️⃣ What is an arrow function?
+
 Arrow function is a shorter syntax for writing functions using => instead of the function keyword.
 
 ---
 
 5️⃣ What are template literals?
+
 Template literals is Strings wrapped in backticks instead of quotes.
